@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferdoes Siam</h1>
-<h3 align="center">i am a student of BUBT</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsiam255&label=Profile%20views&color=0e75b6&style=flat" alt="mrsiam255" /> </p>
 
