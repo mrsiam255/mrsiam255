@@ -1,5 +1,7 @@
-# Hi 👋, I'm Ferdoes Siam  
-🎓 CSE Student | Developer | Politician  
+# Hi 👋,
+**I'm Ferdoes Siam**  
+
+🎓 CSE Student      |     Developer     |      Politician  
 
 ---
 
