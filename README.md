@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Ferdoes Siam  
+🎓 CSE Student | Developer | Politician 
 
-<!--
-**mrsiam255/mrsiam255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I’m currently learning CSE fundamentals  
+💡 Exploring AI and Data Analytics  
+📫 How to reach me: ferdoessiamofficial@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect with me:
+**GitHub:**   https://github.com/mrsiam255
+**Facebook:** https://www.facebook.com/profile.php?id=100070806787509
+
+---
+
+### 🛠️ Languages and Tools:
+C | C++ | Python | JS | REACT| MySQL | HTML | CSS
