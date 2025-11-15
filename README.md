@@ -32,10 +32,11 @@
 
 
 ### Languages and Tools:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsiam255&layout=compact)
 
 ---
 
 ### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsiam255&show_icons=true)
+
 
