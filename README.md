@@ -30,3 +30,12 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00A3E0?style=for-the-badge&logo=internetofthings&logoColor=white)
 
+
+### Languages and Tools:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+### GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
