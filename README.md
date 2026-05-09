@@ -1,48 +1,67 @@
-# Hi 👋  **I'm Ferdoes Siam**  
+# Hi 👋 I'm Ferdoes Siam  
 
-🎓 CSE Student      |     Developer     |      Politician  
-
----
-
-🌱 I’m currently learning CSE fundamentals  
-💡 Exploring AI and Data Analytics  
-📫 How to reach me: **ferdoessiamofficial@gmail.com**
+🎓 CSE Student | 💻 Developer | 🏛️ Politician | 📚 Aspiring Lecturer  
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrsiam255)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 About Me
+🌱 Currently learning CSE fundamentals  
+💡 Exploring AI, Data Analytics & Software Development  
+🎯 Goal: Become a skilled Software Engineer & Lecturer  
+📫 Reach me at: **ferdoessiamofficial@gmail.com**  
 
-### 🌐 Connect with me
+✨ *"Success is not a destination, it is a journey."*  
+
+---
+
+## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrsiam255)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100070806787509)
 
 ---
 
-
-### 🛠️ Programming Languages & Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00A3E0?style=for-the-badge&logo=internetofthings&logoColor=white)
-
-
-### Languages and Tools:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsiam255&layout=compact)
+# 🏆 GitHub Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrsiam255&theme=onedark&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsiam255&show_icons=true)
+# 🛠️ Languages & Technologies
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,mysql,bash,git,github,vscode" />
+</p>
 
+---
 
+# 📊 GitHub Analytics
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrsiam255&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsiam255&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mrsiam255&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📌 Current Focus
+- Data Structures & Algorithms  
+- Problem Solving  
+- AI & Data Analytics  
+- Web Development  
+- Academic & Research Skills  
+
+---
+
+# ⚡ Fun Fact
+💬 I enjoy technology, leadership, public speaking, and helping others learn.  
+
+---
