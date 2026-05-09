@@ -1,6 +1,19 @@
-# Hi 👋 I'm Ferdoes Siam  
+<!-- PROFILE VIEWS (TOP) -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mrsiam255&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<!-- HEADER -->
+<h1 align="center">Hi 👋 I'm Ferdoes Siam</h1>
 
 <h3 align="center">🎓 CSE Student | 💻 Developer | 🧪 SQA Enthusiast | 🏛️ Politician | 📚 Aspiring Lecturer</h3>
+
+---
+
+<!-- ANIMATED INTRO -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Software+Developer;SQA+Enthusiast;Problem+Solver;Web+Developer;Future+Lecturer" />
+</p>
 
 ---
 
@@ -15,7 +28,9 @@
 
 <div align="center">
 
-# ✨ "Success is not a destination — it is a journey of consistency, discipline, patience, and continuous improvement." ✨
+## ✨ Success Quote ✨
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&pause=2000&color=F2994A&center=true&vCenter=true&width=800&lines=Success+is+not+a+destination+—+it+is+a+journey;of+consistency%2C+discipline%2C+patience+and+continuous+improvement." />
 
 </div>
 
@@ -88,14 +103,12 @@
 
 ## ⚡ Vision
 
-> “I believe in consistency. Small daily improvements create extraordinary results over time.”
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=27AE60&center=true&vCenter=true&width=800&lines=I+believe+in+consistency;Small+daily+improvements+create+extraordinary+results;Over+time+hard+work+always+pays+off" />
+
+</div>
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mrsiam255&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
+<p align="center">⭐ Keep learning. Keep building. Keep growing.</p>
