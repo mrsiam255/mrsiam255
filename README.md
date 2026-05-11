@@ -1,41 +1,31 @@
-<!-- PROFILE VIEWS (TOP) -->
+```md
+<!-- PROFILE VIEWS -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mrsiam255&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=mrsiam255&label=Profile%20Views&color=0D47A1&style=flat"/>
 </p>
 
 <!-- HEADER -->
 <h1 align="center">Hi 👋 I'm Ferdoes Siam</h1>
 
-<h3 align="center">🎓 CSE Student | 💻 Developer | 🧪 SQA Enthusiast | 🏛️ Politician | 📚 Aspiring Lecturer</h3>
+<h3 align="center">
+🎓 CSE Student • 💻 Web Developer • 🧪 SQA Enthusiast • 📚 Researcher • 🎯 Future Lecturer
+</h3>
 
 ---
 
-```html
 <!-- ANIMATED INTRO -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0D47A1&center=true&vCenter=true&width=700&lines=Researcher;SQA+Engineer;Web+Developer;Academic+Enthusiast;Problem+Solver;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0D47A1&center=true&vCenter=true&width=750&lines=Researcher;SQA+Engineer;Web+Developer;Academic+Enthusiast;Problem+Solver;Future+Lecturer" />
 </p>
-```
-
 
 ---
 
 ## 🚀 About Me
 
-🌱 Currently learning CSE fundamentals  
-💡 Exploring AI, Data Analytics, Software Development & SQA  
-🎯 Goal: Become a skilled Software Engineer, QA Engineer & Lecturer  
-📫 Reach me: **ferdoessiamofficial@gmail.com**
-
----
-
-<div align="center">
-
-## ✨ Success Quote ✨
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&pause=2000&color=F2994A&center=true&vCenter=true&width=800&lines=Success+is+not+a+destination+—+it+is+a+journey;of+consistency%2C+discipline%2C+patience+and+continuous+improvement." />
-
-</div>
+- 🌱 Currently learning Software Engineering & CSE fundamentals
+- 💡 Exploring AI, Data Analytics, Web Development & Software Quality Assurance
+- 🎯 Goal: Become a Software Engineer, QA Engineer, Researcher & Lecturer
+- 📫 Reach me: **ferdoessiamofficial@gmail.com**
 
 ---
 
@@ -43,10 +33,10 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/SQA-Software%20Quality%20Assurance-2F80ED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Research-Skills-27AE60?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem-Solving-F2994A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web-Development-9B51E0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQA-Software%20Quality%20Assurance-0D47A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research-Academic%20Growth-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem-Solving-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web-Development-1E88E5?style=for-the-badge"/>
 
 </p>
 
@@ -57,11 +47,11 @@
 <p align="center">
 
 <a href="https://github.com/mrsiam255">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100070806787509">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-0D47A1?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </p>
@@ -71,7 +61,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,mysql,bash,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -104,14 +94,17 @@
 
 ---
 
-## ⚡ Vision
+## ✨ Philosophy
 
-<div align="center">
+<p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=27AE60&center=true&vCenter=true&width=800&lines=I+believe+in+consistency;Small+daily+improvements+create+extraordinary+results;Over+time+hard+work+always+pays+off" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=1565C0&center=true&vCenter=true&width=850&lines=Consistency+beats+motivation;Small+daily+improvements+create+big+results;Learning+never+stops" />
 
-</div>
+</p>
 
 ---
 
-<p align="center">⭐ Keep learning. Keep building. Keep growing.</p>
+<p align="center">
+⭐ Keep Learning • Keep Building • Keep Growing
+</p>
+```
