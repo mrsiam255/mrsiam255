@@ -10,10 +10,13 @@
 
 ---
 
+```html
 <!-- ANIMATED INTRO -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Software+Developer;SQA+Enthusiast;Problem+Solver;Web+Developer;Future+Lecturer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0D47A1&center=true&vCenter=true&width=700&lines=Researcher;SQA+Engineer;Web+Developer;Academic+Enthusiast;Problem+Solver;" />
 </p>
+```
+
 
 ---
 
