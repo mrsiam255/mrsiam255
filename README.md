@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋 I'm Ferdoes Siam</h1>
 
 <h3 align="center">
-🎓 CSE Student • 💻 Web Developer • 🧪 SQA Enthusiast • 📚 Researcher • 🎯 Future Lecturer
+ 🔬 Researcher • 🧪 SQA Enthusiast • 🎓 Academic Enthusiast • 🌐 Web Developer
 </h3>
 
 ---
