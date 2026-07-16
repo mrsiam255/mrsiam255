@@ -1,48 +1,46 @@
-
 <!-- PROFILE VIEWS -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mrsiam255&label=Profile%20Views&color=0D47A1&style=flat"/>
 </p>
 
-<!-- HEADER -->
 <h1 align="center">Hi 👋 I'm Ferdoes Siam</h1>
 
 <h3 align="center">
- 🔬 Researcher • 🧪 SQA Enthusiast • 🎓 Academic Enthusiast • 🌐 Web Developer
+🧪 SQA Enthusiast • 🔬 Researcher • 🎓 Academic Enthusiast
 </h3>
 
 ---
 
-<!-- ANIMATED INTRO -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0D47A1&center=true&vCenter=true&width=750&lines=Researcher;SQA+Engineer;Web+Developer;Academic+Enthusiast;Problem+Solver;Future+Lecturer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0D47A1&center=true&vCenter=true&width=750&lines=Software+Quality+Assurance;Manual+Testing;Automation+Testing;Researcher;Problem+Solver;Future+Lecturer"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🌱 Currently learning Software Engineering & CSE fundamentals
-- 💡 Exploring AI, Data Analytics, Web Development & Software Quality Assurance
-- 🎯 Goal: Become a Software Engineer, QA Engineer, Researcher & Lecturer
-- 📫 Reach me: **ferdoessiamofficial@gmail.com**
+- 🧪 Passionate about Software Quality Assurance (Manual & Automation Testing)
+- 🔬 Interested in AI, Software Testing, and Research
+- 🎯 Goal: Become a QA Engineer, Researcher & Lecturer
+- 📫 Email: **ferdoessiamofficial@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/ferdoes-siam-561ab139b**
 
 ---
 
-## 📌 Current Focus
+# 📌 Current Focus
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/SQA-Software%20Quality%20Assurance-0D47A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Research-Academic%20Growth-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem-Solving-1976D2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web-Development-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Manual_Testing-0D47A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation_Testing-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software_Quality_Assurance-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research-0D47A1?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -50,23 +48,46 @@
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/ferdoes-siam-561ab139b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://www.facebook.com/profile.php?id=100070806787509">
-<img src="https://img.shields.io/badge/Facebook-0D47A1?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+# 🛠️ Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 🧰 Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mrsiam255&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
@@ -74,7 +95,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -86,7 +107,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=mrsiam255&theme=tokyonight&hide_border=true"/>
@@ -94,17 +115,16 @@
 
 ---
 
-## ✨ Philosophy
+# ✨ Philosophy
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=1565C0&center=true&vCenter=true&width=850&lines=Consistency+beats+motivation;Small+daily+improvements+create+big+results;Learning+never+stops" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=1565C0&center=true&vCenter=true&width=850&lines=Consistency+beats+motivation;Small+daily+improvements+create+big+results;Learning+never+stops"/>
 
 </p>
 
 ---
 
 <p align="center">
-⭐ Keep Learning • Keep Building • Keep Growing
+⭐ Keep Learning • Keep Testing • Keep Growing
 </p>
-
