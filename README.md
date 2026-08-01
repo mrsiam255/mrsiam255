@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋 I'm Ferdoes Siam</h1>
 
 <h3 align="center">
-Software Quality Assurance (SQA) Enthusiast | Researcher
+Software Quality Assurance (SQA) Enthusiast 
 </h3>
 
 ---
